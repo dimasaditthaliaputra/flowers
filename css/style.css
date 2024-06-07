@@ -1427,7 +1427,7 @@ body {
   right: 20%;
   bottom: 0;
   width: 54%;
-  height: 90%;
+  height: 100%;
   background: var(--primary);
   text-align: center;
   transition: all 1s ease-in-out;
